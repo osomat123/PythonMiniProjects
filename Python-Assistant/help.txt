@@ -1,0 +1,14 @@
+
+I am Py Assistant.
+
+I am a virtual assistant that can open any application you want. Just type in let me know!
+For example: Type "Open Calendar" and I'll open the Calendar app for you. You can write tell me open an application any way you want. Just make sure you use the correct application name.
+
+Don't want to write down the entire name of of an application? Just type "add nickname <nickname> for <App name>"
+For example: Type "add nickname chrome for Google Chrome" and it'll be done!
+
+I can also search for stuff on Google. Just ask!
+
+Finally, if you want to exit just type "quit" or "bye" or "exit" or "stop" or "ciao" and I'll shutdown.
+
+I hope I'll be useful to you :D
